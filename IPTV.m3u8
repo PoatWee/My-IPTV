@@ -14,7 +14,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3
 
 
 #EXTINF:-1 ,CCTV-5
-http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 
@@ -40,7 +40,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 
 #EXTINF:-1 ,CCTV-13
-http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
+http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 ,CCTV-14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 
@@ -50,8 +50,7 @@ http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?channel-id=yst
 #EXTINF:-1 ,CCTV-17
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CCTV4K超高清
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-
+http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000266302.m3u8
 #EXTINF:-1 ,纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 ,凤凰中文 HD
