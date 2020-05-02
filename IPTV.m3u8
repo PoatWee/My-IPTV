@@ -1,56 +1,40 @@
 #EXTM3U
-
 #EXTINF:-1 ,CCTV-1
 http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-
 #EXTINF:-1 ,CCTV-2
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-
 #EXTINF:-1 ,CCTV-3
 http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
-
 #EXTINF:-1 ,CCTV-4
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-
-
 #EXTINF:-1 ,CCTV-5
-http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
+http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-
 #EXTINF:-1 ,CCTV-6
 http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
-
 #EXTINF:-1 ,CCTV-7
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-
 #EXTINF:-1 ,CCTV-8
 http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
-
 #EXTINF:-1 ,CCTV-9
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-
 #EXTINF:-1 ,CCTV-10
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-
 #EXTINF:-1 ,CCTV-11
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-
 #EXTINF:-1 ,CCTV-12
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-
 #EXTINF:-1 ,CCTV-13
-http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8
 #EXTINF:-1 ,CCTV-14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-
 #EXTINF:-1 ,CCTV-15
 http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
-
 #EXTINF:-1 ,CCTV-17
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 #EXTINF:-1 ,CCTV4K超高清
-http://live-aba-cdn.ysp.cctv.cn/wcloud-cdn.ysp.cctv.cn/ysp/2000266302.m3u8
+http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 #EXTINF:-1 ,纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 ,凤凰中文 HD
