@@ -4,19 +4,19 @@ http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 #EXTINF:-1 ,CCTV-2
 http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
 #EXTINF:-1 ,CCTV-3
-http://yztv.wshls.homecdn.com/live/11ef4.flv?t=1593261142&k=05f9ac03ce35fe4eaa5e38bb4d8ef58f
+http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1 ,CCTV-4
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
 #EXTINF:-1 ,CCTV-5
-http://112.17.40.145/PLTV/88888888/224/3221226687/index.m3u8
+http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
 #EXTINF:-1 ,CCTV-5+
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 #EXTINF:-1 ,CCTV-6
-http://yztv.wshls.homecdn.com/live/11ee8.flv?t=1593259693&k=0e6658da5da68ad4056e3b06d2c88d7e
+http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
 #EXTINF:-1 ,CCTV-7
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 #EXTINF:-1 ,CCTV-8
-http://yztv.wshls.homecdn.com/live/11ee0.flv?t=1593258630&k=8243bca0069b954bb7d9f03aab7d14a5
+http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
 #EXTINF:-1 ,CCTV-9
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 ,CCTV-10
@@ -26,7 +26,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3
 #EXTINF:-1 ,CCTV-12
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 ,CCTV-13
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
 #EXTINF:-1 ,CCTV-14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 ,CCTV-15
@@ -39,6 +39,11 @@ http://117.148.187.46/PLTV/88888888/224/3221226758/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,ssoZ0cXE2ewBAUXfQFZHgpqkP8IsM_1woEOhf5tuN540/http://p.ananas.chaoxing.com/star3/origin/b003419726a9806b967d6f577d9a4d00.png" group-title="4K频道",BasTV-4K
 http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
+
+CGTN,http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
+CETV1,http://121.31.30.91:8081/ysten-business/live/jiaoyutv/1.m3u8
+CNTV音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
+CCTV高清[电联],http://yun168.ddns.net:34040/udp/239.93.1.48:8008
 
 #EXTINF:-1 ,凤凰中文 HD
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
