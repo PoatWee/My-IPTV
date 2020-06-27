@@ -28,7 +28,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3
 #EXTINF:-1 ,CCTV-13
 http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
 #EXTINF:-1 ,CCTV-14
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+http://cbnlive.cbchot.com/live/yt_cctv14_h_1.m3u8?123
 #EXTINF:-1 ,CCTV-15
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 ,CCTV-17
@@ -40,10 +40,14 @@ http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,ssoZ0cXE2ewBAUXfQFZHgpqkP8IsM_1woEOhf5tuN540/http://p.ananas.chaoxing.com/star3/origin/b003419726a9806b967d6f577d9a4d00.png" group-title="4K频道",BasTV-4K
 http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 
-CGTN,http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
-CETV1,http://121.31.30.91:8081/ysten-business/live/jiaoyutv/1.m3u8
-CNTV音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
-CCTV高清[电联],http://yun168.ddns.net:34040/udp/239.93.1.48:8008
+#EXTINF:-1 ,CGTN
+http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
+#EXTINF:-1 ,CETV1
+http://121.31.30.91:8081/ysten-business/live/jiaoyutv/1.m3u8
+#EXTINF:-1 ,CNTV音乐现场
+http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
+#EXTINF:-1 ,CCTV高清[电联]
+http://yun168.ddns.net:34040/udp/239.93.1.48:8008
 
 #EXTINF:-1 ,凤凰中文 HD
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
